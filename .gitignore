@@ -2,8 +2,4 @@
 .env
 temp/
 .vscode/
-*.log
-.env
-temp/
-.vscode/
 .vs/
